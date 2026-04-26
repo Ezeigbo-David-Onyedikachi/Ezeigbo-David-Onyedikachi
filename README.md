@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ezeigbo David Onyedikachi
 
-<!--
-**Ezeigbo-David-Onyedikachi/Ezeigbo-David-Onyedikachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer, Data Science Learner, and A Remote Coding Instructor in Joyce Virtual School  
+Based in Nigeria  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Currently learning JavaScript & Data Science
+- Practicing with W3Schools and real-world projects
+- Goal: Build impactful tech solutions
+
+---
+
+## Tech Stack
+- HTML, CSS, JavaScript, React.js  
+- Python (Beginner - Data Science)  
+
+---
+
+## Projects
+- Ludo Game UI  
+- Soap Business Website (BVM Royal Concept Ltd)  
+- Mountaineering Frontend site (Alpine Ascent) 
+
+---
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/ezeigbo-david-346b89210
+- Email: davidezeigbo@yahoo.com, ezeigbodavid2@gmail.com
+
+---
+
+## Fun Fact
+I love collaborating, building real-world projects while learning, and open to any opportunity. 
