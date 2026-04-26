@@ -21,6 +21,7 @@ I am based in Nigeria
 
 ## Projects
 - Ludo Game UI : https://ezeigbo-david-onyedikachi.github.io/Ludo-Game-Interface-1/
+- Aptech Landing Page: https://ezeigbo-david-onyedikachi.github.io/My-First-Landing-Page-Project/
 - Soap Business Website (BVM Royal Concept Ltd)  
 - Mountaineering Frontend site (Alpine Ascent) 
 
