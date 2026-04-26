@@ -1,7 +1,7 @@
 # Hi, I'm Ezeigbo David Onyedikachi
 
-Frontend Developer, Data Science Learner, and A Remote Coding Instructor in Joyce Virtual School  
-Based in Nigeria  
+Software Engineer | Frontend Developer with React.js | Remote Coding Instructor in Joyce Virtual School | Data Science Learner  
+I am based in Nigeria  
 
 ---
 
@@ -14,7 +14,8 @@ Based in Nigeria
 
 ## Tech Stack
 - HTML, CSS, JavaScript, React.js  
-- Python (Beginner - Data Science)  
+- Python (Beginner - Data Science)
+- Vibe Coding 
 
 ---
 
@@ -28,6 +29,7 @@ Based in Nigeria
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/ezeigbo-david-346b89210
 - Email: davidezeigbo@yahoo.com, ezeigbodavid2@gmail.com
+- Whatsapp: +2348107658371
 
 ---
 
